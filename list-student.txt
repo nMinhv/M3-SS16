@@ -1,0 +1,2 @@
+Student{age=20, name='hoang'}
+Student{age=30, name='nam'}
